@@ -1,4 +1,4 @@
- Leap Year Program
+#Leap Year Program
 
 year = int(input("Enter a year: "))
 
